@@ -1,2 +1,2 @@
 # codewar-challenges
-Some codewars challenges 
+Some codewars challenges in python
